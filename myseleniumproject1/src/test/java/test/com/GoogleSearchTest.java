@@ -16,13 +16,13 @@ import org.testng.annotations.Test;
 
 /**
  *
- * @author itexps
+ * @author itexps2
  */
 public class GoogleSearchTest {
 
-    //adding line
+    //adding line2
 
-    /** comment **/
+    /** comment2 **/
     
     WebDriver driver;
     
